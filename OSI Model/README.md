@@ -1,5 +1,17 @@
 # OSI Model
 
+## DNS Resolution
+
+DNS (Domain Name System) is essentially the internet's phonebook.
+
+It translates human-friendly domain names (like google.com) into the numerical IP addresses that computers use to locate and connect to website.
+
+## TCP handshake
+
+The TCP handshake, also know as three-way handshake, is a process used in TCP/IP networks to establish a reliable connection between a client and a server.
+
+## OSI Model
+
 The OSI (Open Systems Interconnection) Model is like a step-by-step recipe or a set of rules that computers follow to communicate with each other over a network.
 
 The OSI model breaks down the complex process of computer communication into 7 simpler, more manageable layers, each with a specific job.
